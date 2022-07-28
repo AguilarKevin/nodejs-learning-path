@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"open": "^8.4.0",
+		"node-fetch": "^3.2.9",
+		"yargs": "^17.5.1"
+	},
+	"bin": {
+		"reddit": "./reddit.mjs"
+	}
+}
